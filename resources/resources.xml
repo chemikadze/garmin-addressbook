@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">AddressBook</string>
+
+    <bitmap id="LauncherIcon" filename="images/address_book_32x32.png" />
+</resources>

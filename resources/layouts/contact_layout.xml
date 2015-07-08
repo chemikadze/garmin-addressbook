@@ -1,0 +1,8 @@
+<layout id="ContactLayout">
+    <label x="35" y="40" text="Name" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+    
+    <label x="35" y="82" text="Phone" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+    
+    <label x="35" y="124" text="Address" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+   
+</layout>
