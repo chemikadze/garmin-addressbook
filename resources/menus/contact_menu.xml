@@ -1,4 +1,5 @@
 <menu id="ContactMenu">
+    <menu-item id="add_contact">Add contact</menu-item>
     <menu-item id="edit_contact">Edit contact</menu-item>
     <menu-item id="delete_contact">Delete contact</menu-item>
 </menu>
